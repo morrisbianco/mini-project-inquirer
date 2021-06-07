@@ -1,0 +1,23 @@
+{
+  "name": "mini-project-inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morrisbianco/mini-project-inquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morrisbianco/mini-project-inquirer/issues"
+  },
+  "homepage": "https://github.com/morrisbianco/mini-project-inquirer#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}

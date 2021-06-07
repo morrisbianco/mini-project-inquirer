@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    color: hotpink;
+}
+
+h2 {
+    color: limegreen;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
